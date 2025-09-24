@@ -19,6 +19,11 @@ I grew up in China(Guangzhou). In 2020, I hopped on a plane to Australia to star
 
 My journey
 ======
+My academic journey kicked off in late 2023 when I won my first research scholarship and spent three months on my first project. That short run hooked me for life and made me realize research suits me way more than I expected.
+(/images/MUARC.png)
+
+People tell me academic work is boring and repeats the same motions. I beg to differ. I love poking at a question until it coughs up an answer. I’m the kind of person who enjoys digging deep, letting the data do the talking, and avoiding grandiose fluff. Turning messy evidence into a clear, logical story is equal parts painful and wildly addictive...
+
 <p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb">talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 

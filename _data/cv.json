@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Huiyi(Mia) Liang",
+    "email": "lianghuiyiy@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://lianghuiyi-mia.github.io/huiyiliang.github.io/",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Australia",
+      "countryCode": "AUS",
+      "region": "Melbourne"
     },
     "profiles": [
       {
